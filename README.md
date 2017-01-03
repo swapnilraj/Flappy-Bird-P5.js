@@ -10,4 +10,4 @@ Original source code https://github.com/CodingRainbow/Rainbow-Code/tree/master/c
 
 # Screenshots:
 
-![alt text](Flappy-Bird-P5.js/art/FlappyBird .png "Screenshot 1")
+![alt text](https://github.com/swapnilraj/Flappy-Bird-P5.js/blob/master/art/FlappyBird%20%20.png "Screenshot 1")
