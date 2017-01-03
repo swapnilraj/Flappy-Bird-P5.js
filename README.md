@@ -7,3 +7,7 @@ Original source code https://github.com/CodingRainbow/Rainbow-Code/tree/master/c
 2. More difficulty
 3. Refactor logic for pipe length
 4. Stop game on death
+
+# Screenshots:
+
+![alt text](Flappy-Bird-P5.js/art/FlappyBird .png "Screenshot 1")
