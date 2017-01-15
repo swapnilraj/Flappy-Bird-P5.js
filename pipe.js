@@ -7,7 +7,6 @@ var stop = false;
 function Pipe() {
   this.top = random(height/2);
 
-  this.bottom = this.top + space
   this.x = width;
   this.w = 20;
 
@@ -18,7 +17,7 @@ function Pipe() {
   }
 
   this.hits = function(bird) {
-    if (bird.y < this.top + 16 || bird.y > this.bottom - 16) {
+    if (bird.y < this.top + 16 || bird.y > (this.top + this.space) - 16) {
       if (bird.x > this.x && bird.x < this.x + this.w) {
         this.highlight = true;
         return true;
